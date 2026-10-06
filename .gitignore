@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+outputs/
+inputs/
+*.jpg
+*.jpeg
+*.png
+*.webp

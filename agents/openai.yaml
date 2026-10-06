@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Second World · 第二世界"
+  short_description: "逐张将照片延伸成第二世界海报：上半保留实景，下半纸艺手绘，同一结构跨缝连续"
+  default_prompt: "使用 $photo-second-world 为每张上传照片分别制作一张 3:4 第二世界海报，上下严格各半，保持原照片真实，让同一结构跨越中线自然延伸。"
